@@ -40,10 +40,10 @@ languages:
     level: Native
 
   - name: English
-    level: B2
+    level: C1
 
   - name: German
-    level: A2
+    level: B1
 
 # This will use the default widget: "details-list"
 awards:
