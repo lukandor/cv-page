@@ -1,0 +1,25 @@
+- company: OLX Group
+  page: 1
+  roles: 
+    - role: Software Engineer
+      tools: New Relic · Software Development · Git · JUnit · Prometheus.io · Terraform · Software Infrastructure · Engineering · OpenShift · Kotlin · Kotlin Coroutines · Spring Boot · HTTP4K · Functional Programming · Software Designa
+      details: |
+        **Teams**: Core Payments & Pay&Ship\
+        **Contributions**: Support the core payments platform. Participate regularly in an on-call schedule. Develop and deliver the KYC functionality for the Pay&Ship.
+      date: 06.2019 - now
+    
+    - role: Junior Software Developer
+      tools: New Relic · Java · JUnit · Prometheus.io · Vert.x · Spring Boot · Amazon SQS · Amazon Simple Notification Service (SNS) · AWS
+      date: 10.2018 - 06.2019
+      details: |
+        **Teams**: Apollo (internal media server) & Core Payments\
+        **Contributions**: Added a circuit breaker and ETag support to better utilize the server resources. Integrated with payment service providers in Latin America.
+
+- company: Atos
+  page: 1
+  roles:
+    - role: Junior Software Developer
+      tools: AngularJS · Spring Boot · Java · JUnit · Jenkins · PostgreSQL · SQL
+      details: |
+        **Contributions**: Delivered a BPMN and a real-estate lease management system.
+      date: 2017 - 2018

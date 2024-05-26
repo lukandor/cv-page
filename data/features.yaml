@@ -1,0 +1,81 @@
+about:
+  name: Łukasz Ziaja
+  tagline: Software Engineer
+  email: lukasz.ziaja123@gmail.com
+  links:
+    - title: Let's connect!
+      url: https://www.linkedin.com/in/%C5%82ukasz-ziaja-964683134/
+      icon: fab fa-linkedin
+    - title: Github
+      url: https://github.com/lukandor
+      icon: fab fa-github
+  details: |
+      Passionate software engineer with over 5 years of experience in developing scalable web applications and optimizing performance for diverse industries. Skilled in Kotlin and cloud technologies, with a strong focus on delivering innovative solutions and enhancing user experiences. Proven track record of leading cross-functional teams and driving successful project completions in fast-paced environments.
+
+skills:
+  - groupName: Languages
+    list:
+      - Kotlin - Java - Python
+
+  - groupName: Frameworks
+    list:
+      - Vert.x - Spring Boot - HTTP4K
+  - groupName: Testing
+    list:
+      - JUnit - Mockito - Mockk
+      - TestContainers - Localstack
+
+  - groupName: Programming & Systems
+    list:
+      - Git - Docker - NGINX
+      - Linux
+
+interests:
+  - Systemic reasoning
+  - Human psychology & development
+  - Physics (but not too serious)
+
+languages:
+  - name: Polish
+    level: Native
+
+  - name: English
+    level: B2
+
+  - name: German
+    level: A2
+
+# This will use the default widget: "details-list"
+awards:
+  - title: "Tübitak - Graduation Project"
+    date: "2017"
+    subtitle: "A Decision Support System for 3D Cutting Problem"
+    #details: |
+    #   - add more here if you like to.
+    #   - or just comment out/delete the field.
+    links:
+      - title: example
+        url: https://mertbakir.gitlab.io
+        icon: fas fa-bolt
+        prefix: "This is an " # use quotation marks if you want to pass the tailing space.
+      - title: second link.
+        url: https://esdfdsfdsf
+        icon: "-" # you can get rid of the icon by entering dummy text
+        prefix: "omg"
+
+certificates:
+  - title: "Oracle Certified Associate, Java SE 8 Programmer"
+    subtitle: Oracle
+    date: "2017"
+    link: https://www.credly.com/badges/0324b581-de7d-438b-a661-5e3ee2e8f138/linked_in_profile
+
+  - title: "HashiCorp Certified: Terraform Associate"
+    subtitle: HasiCorp
+    date: "2021-2023"
+    link: https://www.credly.com/badges/cc268bf4-03fc-42a2-a6e3-7ad20743ff5c/public_url
+
+  - title: "CKAD: Certified Kubernetes Application Developer"
+    subtitle: The Linux Foundation
+    date: "2020-2023"
+    link: https://www.credly.com/badges/fbe1e4f6-5506-4575-a6c2-47f72868e581/linked_in_profile
+
