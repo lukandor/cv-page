@@ -15,20 +15,22 @@ about:
 skills:
   - groupName: Languages
     list:
-      - Kotlin - Java - Python
-
+      - Kotlin - Java
   - groupName: Frameworks
     list:
       - Vert.x - Spring Boot - HTTP4K
+      - Exposed - JDBI
   - groupName: Testing
     list:
       - JUnit - Mockito - Mockk
       - TestContainers - Localstack
-
   - groupName: Programming & Systems
     list:
-      - Git - Docker - NGINX
+      - Git - Docker - Kafka
       - Linux
+  - groupName: Cloud
+    list:
+      - AWS - Kubernetes - Terraform
 
 interests:
   - Economics
