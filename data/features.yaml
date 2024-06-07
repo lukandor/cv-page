@@ -31,6 +31,7 @@ skills:
   - groupName: Cloud
     list:
       - AWS - Kubernetes - Terraform
+      - New Relic - Grafana - Prometheus
 
 interests:
   - Economics
