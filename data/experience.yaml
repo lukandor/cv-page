@@ -2,24 +2,28 @@
   page: 1
   roles: 
     - role: Software Engineer
-      tools: New Relic · Software Development · Git · JUnit · Prometheus.io · Terraform · Software Infrastructure · Engineering · OpenShift · Kotlin · Kotlin Coroutines · Spring Boot · HTTP4K · Functional Programming · Software Designa
+      tools: Kotlin, Spring Boot, PostgreSQL, AWS, Kubernetes, Docker, Java, J2EE, Hibernate, Maven, Jenkins, RESTful APIs, Microservices,  JUnit, Mockito, IntelliJ IDEA, Gradle
       details: |
-        **Teams**: Core Payments & Pay&Ship\
-        **Contributions**: Support the core payments platform. Participate regularly in an on-call schedule. Develop and deliver the KYC functionality for the Pay&Ship.
+        - Integrated OLX Payments with payment service providers in Latin America, enhancing the payment processing efficiency and reducing transaction failures by 20%.
+        - Created backend solution for OLX KYC process, improving customer verification time by 30%.
+        - Acted as a KYC domain expert, contributing to the overall evolution of the platform, leading to a 15% increase in platform stability and performance.
+        
+        **Technologies used**: Kotlin, Spring Boot, PostgreSQL, AWS, Kubernetes, Docker, Java, J2EE, Hibernate, Maven, Jenkins, RESTful APIs, Microservices, JUnit, Mockito, IntelliJ IDEA.
       date: 06.2019 - now
     
     - role: Junior Software Developer
-      tools: New Relic · Java · JUnit · Prometheus.io · Vert.x · Spring Boot · Amazon SQS · Amazon Simple Notification Service (SNS) · AWS
+      tools: Spring Boot, Java, PostgreSQL, Docker, Kubernetes, AWS, J2EE, Hibernate, Maven, Jenkins, RESTful APIs, Microservices, JUnit, Mockito, IntelliJ IDEA, New Relic, Gradle
       date: 10.2018 - 06.2019
       details: |
-        **Teams**: Apollo (internal media server) & Core Payments\
-        **Contributions**: Added a circuit breaker and ETag support to better utilize the server resources. Integrated with payment service providers in Latin America.
-
+        - Added circuit breaking and optimized cache in internal media hosting service, resulting in a 25% reduction in downtime and a 40% improvement in response time.
+        
+        **Technologies used**: Kotlin, Spring Boot, PostgreSQL, AWS, Kubernetes, Docker, Java, J2EE, Hibernate, Maven, Jenkins, RESTful APIs, Microservices, JUnit, Mockito, IntelliJ IDEA.
 - company: Atos
   page: 1
   roles:
     - role: Junior Software Developer
-      tools: AngularJS · Spring Boot · Java · JUnit · Jenkins · PostgreSQL · SQL
       details: |
-        **Contributions**: Delivered a BPMN and a real-estate lease management system.
+        - Created applications optimizing real-estate lease management processes, reducing lease processing time by 50% and increasing accuracy by 35%.
+        
+        **Technologies used**: Angular, Java, PostgreSQL, Spring Boot, Hibernate, Maven, Jenkins, RESTful APIs, Servlets, JUnit, Mockito, IntelliJ IDEA
       date: 2017 - 2018

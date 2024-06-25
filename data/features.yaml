@@ -3,14 +3,14 @@ about:
   tagline: Software Engineer
   email: lukasz.ziaja123@gmail.com
   links:
-    - title: Let's connect!
+    - title: LinkedIn
       url: https://www.linkedin.com/in/%C5%82ukasz-ziaja-964683134/
       icon: fab fa-linkedin
     - title: Github
       url: https://github.com/lukandor
       icon: fab fa-github
   details: |
-      Passionate software engineer with over 5 years of experience in developing scalable web applications and optimizing performance for diverse industries. Skilled in Kotlin and cloud technologies, with a strong focus on delivering innovative solutions and enhancing user experiences. Proven track record of leading cross-functional teams and driving successful project completions in fast-paced environments.
+    Experienced Software Engineer adept in bringing forth expertise in design, delivery, testing, and maintenance of software systems. Proficient in Java and related technologies, able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.
 
 skills:
   - groupName: Languages
@@ -50,17 +50,17 @@ languages:
 
 certificates:
   - title: "Oracle Certified Associate, Java SE 8 Programmer"
-    subtitle: Oracle
-    date: "2017"
+#    subtitle: Oracle
+#    date: "2017"
     link: https://www.credly.com/badges/0324b581-de7d-438b-a661-5e3ee2e8f138/linked_in_profile
 
   - title: "HashiCorp Certified: Terraform Associate"
-    subtitle: HashiCorp
-    date: "2021-2023"
+#    subtitle: HashiCorp
+#    date: "2021-2023"
     link: https://www.credly.com/badges/cc268bf4-03fc-42a2-a6e3-7ad20743ff5c/public_url
 
   - title: "CKAD: Certified Kubernetes Application Developer"
-    subtitle: The Linux Foundation
-    date: "2020-2023"
+#    subtitle: The Linux Foundation
+#    date: "2020-2023"
     link: https://www.credly.com/badges/fbe1e4f6-5506-4575-a6c2-47f72868e581/linked_in_profile
 

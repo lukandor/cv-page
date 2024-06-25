@@ -1,4 +1,6 @@
 - name: Bsc. Computer Science
   university: Opole University of Technology
+  thesis: Rapid Application Development
+  subtitle: Comparison of code extension difficulty between code generation tools and handwritten code, concluding that experienced engineers find less difference, while juniors struggle due to lack of foundational knowledge.
   location: Opole, PL
   date: 2014 - 2018
