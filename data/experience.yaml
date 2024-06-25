@@ -27,3 +27,10 @@
         
         **Technologies used**: Angular, Java, PostgreSQL, Spring Boot, Hibernate, Maven, Jenkins, RESTful APIs, Servlets, JUnit, Mockito, IntelliJ IDEA
       date: 2017 - 2018
+
+- company: Certifications
+  page: 1
+  roles:
+    - role: "Oracle Certified Associate, Java SE 8 Programmer"
+    - role: "HashiCorp Certified: Terraform Associate"
+    - role: "CKAD: Certified Kubernetes Application Developer"
